@@ -22,3 +22,7 @@ Movie and TV Show Support: Whether it's a blockbuster film or the latest episode
 With the ASD Downloader suite, you have everything you need to make your video viewing, downloading, and organizing as easy and enjoyable as possible. It's like having a personal video assistant at your fingertips. Enjoy!
 ##########################################################
 ![ASD Downloader](./Screenshots/ASD_Downloader.png)
+![ASD WebServer](./Screenshots/WebServer_Screenshot.png)
+![ASD Renamer](./Screenshots/ASD_Renamer.png)
+![ASD Renamer](./Screenshots/ASD_HLS_Detector_Companion.png)
+![ASD Settings](./Screenshots/Settings.png)
