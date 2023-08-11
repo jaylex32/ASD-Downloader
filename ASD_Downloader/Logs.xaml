@@ -1,0 +1,12 @@
+﻿<Window x:Class="new_ASD_Downloader.Logs"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:new_ASD_Downloader"
+        mc:Ignorable="d"
+        Title="Download Log" Height="300" Width="500">
+    <Grid>
+        <TextBox Name="LogTextBox" IsReadOnly="True" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Background="Black" Foreground="White" />
+    </Grid>
+</Window>
