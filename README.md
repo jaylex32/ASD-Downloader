@@ -29,3 +29,4 @@ With the ASD Downloader suite, you have everything you need to make your video v
 ![ASD HLS Detector 'Chrome Extension'](./Screenshots/ASD_7.jpg)
 ![ASD Settings](./Screenshots/ASD_2.jpg)
 ![ASD Processing](./Screenshots/ASD_3.jpg)
+##########################################################
