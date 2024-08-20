@@ -11,7 +11,7 @@ Your Choice of Quality: From 720p to 1080p to the absolute best, you pick what y
 Settings for Every Taste: Adjust the ASD Downloader's settings to make it work just the way you like.
 ASD WebServer & ASD HLS Detector (Browser Extension):
 
-Find What You Want, When You Want: The ASD HLS Detector sniffs out those hidden m3u8 URLs and video formats.
+Find What You Want, When You Want: The ASD HLS Detector sniffs out those hidden m3u8 URLs and video formats, download it [here](https://chromewebstore.google.com/detail/athena-hls-detector/hlhjhkaechpphhjcdplkplcompomcjnb) .
 Edit On-the-Fly: Filter words from video names for quick and easy processing later.
 Video Playback: Play URLs right in the browser extension to make sure they're what you're looking for.
 Make Playlists: Organize your finds into playlists, right within the extension.
