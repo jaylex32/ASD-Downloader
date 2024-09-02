@@ -52,6 +52,9 @@ Whether you're a casual viewer, a dedicated collector, or an audio enthusiast, t
 
 Get started today and transform the way you interact with online video and audio content!
 
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 
 ![ASD Downloader](./Screenshots/ASD_1.png)
