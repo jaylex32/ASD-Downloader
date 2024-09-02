@@ -56,4 +56,4 @@ Get started today and transform the way you interact with online video content!
 ![ASD HLS Detector 'Chrome Extension'](./Screenshots/ASD_7.jpg)
 ![ASD Settings](./Screenshots/ASD_2.png)
 ![ASD Processing](./Screenshots/ASD_3.png)
-##########################################################
+
