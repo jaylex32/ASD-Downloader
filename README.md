@@ -27,7 +27,7 @@ With the ASD Downloader suite, you have everything you need to make your video v
 ![ASD WebServer](./Screenshots/ASD_5.jpg)
 ![ASD WebServer 2](./Screenshots/ASD_6.jpg)
 ![ASD Renamer](./Screenshots/ASD_4.jpg)
-![ASD Playlist](./Screenshots/Playlist.jpg)
+![ASD Playlist](./Screenshots/Playlist.png)
 ![ASD Metadata Editor](./Screenshots/Metadata_Editor.jpg)
 ![ASD Live Recording](./Screenshots/Live_Recording.jpg)
 ![ASD HLS Detector 'Chrome Extension'](./Screenshots/ASD_7.jpg)
