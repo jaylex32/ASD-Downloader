@@ -1,27 +1,48 @@
 ##############################################################
 
-ASD Downloader Suite: Meet your new best friend for streaming, downloading, and managing video content.
+# ASD Downloader Suite
 
-ASD Downloader (Main Program):
+Your all-in-one solution for streaming, downloading, and managing video content.
 
-Your Personal Video Downloader: Easily download all the URLs you find, including YouTube videos.
-Text File Support: Got a list of videos in a text file? The ASD Downloader can grab them all.
-Clipboard Auto-Paste: Found a video link you like? Just copy it, and the ASD Downloader will do the rest.
-Your Choice of Quality: From 720p to 1080p to the absolute best, you pick what you download.
-Settings for Every Taste: Adjust the ASD Downloader's settings to make it work just the way you like.
-ASD WebServer & ASD HLS Detector (Browser Extension):
+## Features Overview
 
-Find What You Want, When You Want: The ASD HLS Detector sniffs out those hidden m3u8 URLs and video formats, download it [here](https://chromewebstore.google.com/detail/athena-hls-detector/hlhjhkaechpphhjcdplkplcompomcjnb) .
+### ASD Downloader (Main Program)
 
-Edit On-the-Fly: Filter words from video names for quick and easy processing later.
-Video Playback: Play URLs right in the browser extension to make sure they're what you're looking for.
-Make Playlists: Organize your finds into playlists, right within the extension.
-Export with Ease: Want to download later? Just export URLs to a text file with their names and feed them to the ASD Downloader.
-ASD Renamer:
+- **Universal Video Downloader**: Easily download videos from YouTube and various other websites.
+- **Bulk Download Support**: Process multiple URLs from text files.
+- **Clipboard Auto-Paste**: Automatically detects and pastes copied video links.
+- **Quality Options**: Choose your preferred video quality, from 720p to 1080p and beyond.
+- **Customizable Settings**: Tailor the downloader to your specific needs.
+- **Auto Playlist Detection**: Automatically identifies and processes playlists from YouTube and similar websites.
 
-Rename Like a Pro: Got a confusing video file name? The ASD Renamer will figure it out and rename it with the correct info from TMDB or TVDB.
-Movie and TV Show Support: Whether it's a blockbuster film or the latest episode of your favorite series, ASD Renamer has got you covered.
-With the ASD Downloader suite, you have everything you need to make your video viewing, downloading, and organizing as easy and enjoyable as possible. It's like having a personal video assistant at your fingertips. Enjoy!
+### ASD WebServer & ASD HLS Detector (Browser Extension)
+
+- **M3U8 URL Detection**: Uncovers hidden m3u8 URLs and video formats.
+- **On-the-Fly Editing**: Filter video names for easier processing.
+- **In-Browser Playback**: Preview URLs directly in the extension.
+- **Playlist Creation**: Organize your finds within the extension.
+- **Export Functionality**: Save URLs and video names to text files for later use with ASD Downloader.
+
+Download the extension [here](https://chromewebstore.google.com/detail/athena-hls-detector/hlhjhkaechpphhjcdplkplcompomcjnb).
+
+### ASD Renamer
+
+- **Intelligent Renaming**: Automatically renames confusing video file names using data from TMDB or TVDB.
+- **Versatile Support**: Works with both movies and TV shows.
+
+## Why Choose ASD Downloader Suite?
+
+The ASD Downloader Suite is your personal video assistant, offering a comprehensive set of tools for video enthusiasts:
+
+1. **Effortless Downloads**: From single videos to entire playlists, ASD Downloader handles it all.
+2. **Smart Detection**: Our browser extension finds those hard-to-spot video sources.
+3. **Organized Library**: Keep your video collection tidy with intelligent renaming.
+4. **User-Friendly Interface**: Intuitive design makes managing your video content a breeze.
+5. **Flexible Workflow**: Download immediately or save for later - the choice is yours.
+
+Whether you're a casual viewer or a dedicated collector, the ASD Downloader Suite streamlines your video management process from start to finish.
+
+Get started today and transform the way you interact with online video content!
 ##########################################################
 ![ASD Downloader](./Screenshots/ASD_1.png)
 ![ASD WebServer](./Screenshots/ASD_5.jpg)
