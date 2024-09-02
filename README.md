@@ -23,7 +23,7 @@ Rename Like a Pro: Got a confusing video file name? The ASD Renamer will figure 
 Movie and TV Show Support: Whether it's a blockbuster film or the latest episode of your favorite series, ASD Renamer has got you covered.
 With the ASD Downloader suite, you have everything you need to make your video viewing, downloading, and organizing as easy and enjoyable as possible. It's like having a personal video assistant at your fingertips. Enjoy!
 ##########################################################
-![ASD Downloader](./Screenshots/ASD_1.jpg)
+![ASD Downloader](./Screenshots/ASD_1.png)
 ![ASD WebServer](./Screenshots/ASD_5.jpg)
 ![ASD WebServer 2](./Screenshots/ASD_6.jpg)
 ![ASD Renamer](./Screenshots/ASD_4.jpg)
