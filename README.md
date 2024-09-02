@@ -1,4 +1,4 @@
-##############################################################
+
 
 # ASD Downloader Suite
 
@@ -43,7 +43,9 @@ The ASD Downloader Suite is your personal video assistant, offering a comprehens
 Whether you're a casual viewer or a dedicated collector, the ASD Downloader Suite streamlines your video management process from start to finish.
 
 Get started today and transform the way you interact with online video content!
-##########################################################
+
+
+
 ![ASD Downloader](./Screenshots/ASD_1.png)
 ![ASD WebServer](./Screenshots/ASD_5.jpg)
 ![ASD WebServer 2](./Screenshots/ASD_6.jpg)
