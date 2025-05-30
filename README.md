@@ -57,6 +57,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 
+
+### If you like my work and want to buy me a coffee to support me, you can do so here: https://buymeacoffee.com/jayross
+
+
 ![ASD Downloader](./Screenshots/ASD_1.png)
 ![ASD WebServer](./Screenshots/ASD_5.jpg)
 ![ASD WebServer 2](./Screenshots/ASD_6.jpg)
