@@ -61,14 +61,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ### If you like my work and want to buy me a coffee to support me, you can do so here: https://buymeacoffee.com/jayross
 
 
-![ASD Downloader](./Screenshots/ASD_1.png)
-![ASD WebServer](./Screenshots/ASD_5.jpg)
-![ASD WebServer 2](./Screenshots/ASD_6.jpg)
-![ASD Renamer](./Screenshots/ASD_4.jpg)
-![ASD Playlist](./Screenshots/Playlist.png)
-![ASD Metadata Editor](./Screenshots/Metadata_Editor.jpg)
-![ASD Live Recording](./Screenshots/Live_Recording.jpg)
-![ASD HLS Detector 'Chrome Extension'](./Screenshots/ASD_7.jpg)
-![ASD Settings](./Screenshots/ASD_2.png)
-![ASD Processing](./Screenshots/ASD_3.png)
+![ASD Downloader](./assets/ASD_Home.png)
+![ASD WebServer](./assets/ASD_WebServer.png))
+![ASD Renamer](./assets/ASD_Renamer.png)
+![ASD Metadata Editor](./assets/ASD_Metadata_Editor.png)
+![ASD Live Recording](./assets/ASD_IPTV_Recorder.png)
+![ASD Settings](./assets/ASD_Settings.png)
 
